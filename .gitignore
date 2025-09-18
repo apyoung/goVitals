@@ -1,0 +1,13 @@
+# Go
+bin/
+*.test
+
+# Personal data (keep these out of git)
+data/
+*.db
+*.sqlite
+*.sqlite3
+*.zip
+
+# VS Code
+.vscode/
